@@ -19,3 +19,7 @@ Task 3: Netflix Homepage
     Code: https://github.com/Md0Rafi/Bharat_Intern/tree/main/Task_3
 
     Site: https://Md0Rafi.github.io/Bharat_Intern/Task_3/index.html
+
+
+
+View Certification: https://www.linkedin.com/posts/md0rafi_webdevelopment-internship-certification-activity-7113356521962442752-j7vq?utm_source=share&utm_medium=member_desktop
